@@ -11,7 +11,7 @@ export default function Header() {
     <header>
       <h1>GUTENDEX BOOK APPLICATION</h1>
       <nav>
-        <Link to="/">Home</Link>
+        <Link to="/Gutendex_book_app">Home</Link>
         <Link to="/books">Books</Link>
         <Link to="/favorites">Favorites</Link>
         {/* Use a button or link to toggle CategoryMenu */}

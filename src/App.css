@@ -243,11 +243,16 @@ nav a:hover {
 }
 .book-list h1 {
   text-align: center;
-  background-color: #2e3a59;
-  color: white;
+  /* background-color: #2e3a59; */
+  /* color: white; */
+}
+.favorite-list .book-card {
   display: inline-block;
   width: calc(25% - 20px);
   box-sizing: border-box;
+}
+.favorites h1 {
+  text-align: center;
 }
 
 @media (max-width: 1200px) {
